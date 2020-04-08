@@ -14,4 +14,5 @@ docker run -it mp3 bin/bash
 start-hbase.sh
 hbase thrift start &
 ```
-
+## Run Code
+python <tutorialFiles> 
